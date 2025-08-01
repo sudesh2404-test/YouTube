@@ -38,7 +38,8 @@ The architecture includes the following components:
 - [AWS Account Setup](https://aws.amazon.com/premiumsupport/)
 - [Download AWS CLI](https://aws.amazon.com/cli/)
 - [Kaggle YouTube Trending Dataset](https://www.kaggle.com/datasnaek/youtube-new)
-
+-
+-
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
